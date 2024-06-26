@@ -4,7 +4,7 @@
 *  The app consumes data from the open [Rick And Morty Api](https://rickandmortyapi.com/).
 
 ### Tech Demonstration:
-*  This app demonstrates the Kotlin Multiplatform framework with Login is shared but UI is native to Android and iOS(https://github.com/bhojak/RickMortyApp-KMM/).
+*  This app demonstrates the Kotlin Multiplatform framework with Login is shared but UI is native to Android and iOS(https://github.com/bhojak/RickMortyApp-KMM/tree/master).
 
 ### Screenshots   
 
