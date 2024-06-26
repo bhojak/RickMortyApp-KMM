@@ -1,10 +1,15 @@
-# Rick and Morty Android
-*  This is a sample app that implements the Kotlin Multiplatform framework. 
-*  The app uses shared logic. 
-*  The app consumes data from the open [Rick And Morty Api](https://rickandmortyapi.com/).
+# Rick and Morty app with MMVM
+*  This app demonstrates the Kotlin Multiplatform framework with Login is shared but UI is native to Android and iOS.
+*  It uses MVVM architecture.
 
-### Tech Demonstration:
-*  This app demonstrates the Kotlin Multiplatform framework with Login is shared but UI is native to Android and iOS(https://github.com/bhojak/RickMortyApp-KMM/tree/master).
+
+
+## Tech Demonstration with MVVM and MVI Architecture
+*  This app demonstrates the Kotlin Multiplatform framework with Login is shared but UI is native to Android and iOS. It uses MVVM architecture [My MVVM App](https://github.com/bhojak/RickMortyApp-KMM/tree/master).
+*  This app demonstrates the Compose Multiplatform framework with Login and UI shared for Android and iOS. It uses MVI architecture [My MVI App](https://github.com/bhojak/RickAndMortyApp-CMP). 
+*  These apps consume data from the open [Rick And Morty Api](https://rickandmortyapi.com/).
+
+
 
 ### Screenshots   
 
