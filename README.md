@@ -1,5 +1,5 @@
 # Rick and Morty app with MMVM
-*  This app demonstrates the Kotlin Multiplatform framework with Login is shared but UI is native to Android and iOS.
+*  This app demonstrates the Kotlin Multiplatform framework with Logic is shared but UI is native to Android and iOS.
 *  It uses MVVM architecture.
 
 
